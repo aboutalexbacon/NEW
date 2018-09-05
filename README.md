@@ -1,2 +1,2 @@
 # NEW
-Github on microsoft acamedy
+Github on microsoft academy
